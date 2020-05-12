@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armjlink2.dll" 
+
+"C:\Users\alji\SimplicityStudio\v4_workspace\cca_mg21_v664\build\exe\cca_mg21_v664.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.2\arm\config\flashloader\SiliconLaboratories\FlashGECKOS2.board" 
+
+
+
+
